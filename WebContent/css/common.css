@@ -1,0 +1,13 @@
+h2 {
+  background-color: fuchsia;
+  color: aqua;
+  font-family: "돋움";
+  font-size: 30px;
+}
+
+p {
+  border-width: 5px;
+  border-color: green;
+  border-radius: 10px;
+  border-style: dotted;
+}
